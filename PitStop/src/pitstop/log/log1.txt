@@ -1,0 +1,194 @@
+---------
+---------
+< START >
+---------
+---------
+
+>> Gerando Ingressos e empilhando
+---------------------------------
+
+>>> Enchendo a fila com os inscritos até o momento
+--------------------------------------------------
+
+>>>> Apresentando menu para o usuário
+-------------------------------------
+
+>>>>> Selecionado: 1 - Entregar ingresso
+----------------------------------------
+>>>>>> Buscando ingresso e pessoa
+---------------------------------
+>>>>>>> Atualizando dados da pessoa
+----------------------------------
+>>>>>>>> Inserindo dados na Lista de contemplados
+-------------------------------------------------
+
+>>>> Apresentando menu para o usuário
+-------------------------------------
+
+>>>>> Selecionado: 1 - Entregar ingresso
+----------------------------------------
+>>>>>> Falha na entrega
+Dados digitados incorretamente
+------------------------------
+
+>>>> Apresentando menu para o usuário
+-------------------------------------
+
+>>>>> Selecionado: 1 - Entregar ingresso
+----------------------------------------
+>>>>>> Falha na entrega
+Dados digitados incorretamente
+------------------------------
+
+>>>> Apresentando menu para o usuário
+-------------------------------------
+
+>>>>> Selecionado: 1 - Entregar ingresso
+----------------------------------------
+>>>>>> Buscando ingresso e pessoa
+---------------------------------
+>>>>>>> Atualizando dados da pessoa
+----------------------------------
+>>>>>>>> Inserindo dados na Lista de contemplados
+-------------------------------------------------
+
+>>>> Apresentando menu para o usuário
+-------------------------------------
+
+>>>>> Selecionado: 4 - Exibir pessoas contempladas
+--------------------------------------------------
+>>>>>> Exibindo dados dos contemplados no console
+-------------------------------------------------
+
+>>>> Apresentando menu para o usuário
+-------------------------------------
+
+>>>>> Selecionado: 5 - Apresentar ingressos
+-------------------------------------------
+>>>>>> Exibindo dados dos ingressos no console
+----------------------------------------------
+
+>>>> Apresentando menu para o usuário
+-------------------------------------
+
+>>>>> Selecionado: 6 - Apresentar tamanho da fila
+-------------------------------------------------
+>>>>>> Exibindo tamanho da fila no console
+------------------------------------------
+
+>>>> Apresentando menu para o usuário
+-------------------------------------
+
+>>>>> Selecionado: 3 - Nova pessoa na fila
+------------------------------------------
+>>>>>> Nova pessoa adicionada na fila
+-------------------------------------
+
+>>>> Apresentando menu para o usuário
+-------------------------------------
+
+>>>>> Selecionado: 6 - Apresentar tamanho da fila
+-------------------------------------------------
+>>>>>> Exibindo tamanho da fila no console
+------------------------------------------
+
+>>>> Apresentando menu para o usuário
+-------------------------------------
+
+>>>>> Selecionado: 1 - Entregar ingresso
+----------------------------------------
+>>>>>> Buscando ingresso e pessoa
+---------------------------------
+>>>>>>> Atualizando dados da pessoa
+----------------------------------
+>>>>>>>> Inserindo dados na Lista de contemplados
+-----------------------------------------------
+
+>>>> Apresentando menu para o usuário
+-------------------------------------
+
+>>>>> Selecionado: 1 - Entregar ingresso
+----------------------------------------
+>>>>>> Falha na entrega
+Dados digitados incorretamente
+------------------------------
+
+>>>> Apresentando menu para o usuário
+-------------------------------------
+
+>>>>> Selecionado: 2 - Sair da sala
+-----------------------------------
+>>>>>> Pessoa removida da sala
+------------------------------
+>>>>>>> Removendo da lista de contemplados
+------------------------------------------
+>>>>>>>> Devolvendo ingresso para a pilha
+-----------------------------------------
+
+>>>> Apresentando menu para o usuário
+-------------------------------------
+
+>>>>> Selecionado: 4 - Exibir pessoas contempladas
+--------------------------------------------------
+>>>>>> Exibindo dados dos contemplados no console
+-------------------------------------------------
+
+>>>> Apresentando menu para o usuário
+-------------------------------------
+
+>>>>> Selecionado: 2 - Sair da sala
+-----------------------------------
+>>>>>> Pessoa removida da sala
+------------------------------
+>>>>>>> Removendo da lista de contemplados
+------------------------------------------
+>>>>>>>> Devolvendo ingresso para a pilha
+-----------------------------------------
+
+>>>> Apresentando menu para o usuário
+-------------------------------------
+
+>>>>> Selecionado: 4 - Exibir pessoas contempladas
+--------------------------------------------------
+>>>>>> Exibindo dados dos contemplados no console
+-------------------------------------------------
+
+>>>> Apresentando menu para o usuário
+-------------------------------------
+
+>>>>> Selecionado: 1 - Entregar ingresso
+----------------------------------------
+>>>>>> Buscando ingresso e pessoa
+---------------------------------
+>>>>>>> Atualizando dados da pessoa
+----------------------------------
+>>>>>>>> Inserindo dados na Lista de contemplados
+-----------------------------------------------
+
+>>>> Apresentando menu para o usuário
+-------------------------------------
+
+>>>>> Selecionado: 4 - Exibir pessoas contempladas
+--------------------------------------------------
+>>>>>> Exibindo dados dos contemplados no console
+-------------------------------------------------
+
+>>>> Apresentando menu para o usuário
+-------------------------------------
+
+>>>>> Selecionado: 6 - Apresentar tamanho da fila
+-------------------------------------------------
+>>>>>> Exibindo tamanho da fila no console
+------------------------------------------
+
+>>>> Apresentando menu para o usuário
+-------------------------------------
+
+>>>>> Selecionado: 0 - Sair do sistema
+--------------------------------------
+-------
+-------
+< END >
+-------
+-------
+
